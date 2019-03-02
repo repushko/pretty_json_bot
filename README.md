@@ -1,3 +1,9 @@
-# ![pretty_json_bot](https://t.me/pretty_json_bot) - Telegram bot for make json beauty
+# pretty_json_bot - Telegram bot for make json beauty
 
-![](https://github.com/grisme/prettyjsonbot/master/pretty_json_bot.png) 
+Test here: https://t.me/pretty_json_bot
+
+Available commands: /pretty
+
+Description in russian: https://repushko.com/all/pretty-json-bot/
+
+![](https://github.com/repushko/prettyjsonbot/blob/master/pretty_json_bot.png) 
