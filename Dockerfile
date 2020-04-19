@@ -1,11 +1,9 @@
-FROM golang:1.11
+FROM golang:1.14
 
-WORKDIR $GOPATH/src/github.com/grisme/prettyjsonbot
+WORKDIR /app
 
 COPY . .
 
-RUN go get -d -v ./...
+RUN go build -o /go/bin/prettyjsonbot
 
-RUN go install -v ./...
-
-CMD ["prettyjsonbot"]
+ENTRYPOINT ["/go/bin/prettyjsonbot"]
