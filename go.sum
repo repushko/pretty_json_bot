@@ -1,0 +1,8 @@
+github.com/pkg/errors v0.8.1 h1:iURUrRGxPUNPdy5/HRSm+Yj6okJ6UtLINN0Q9M4+h3I=
+github.com/pkg/errors v0.8.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/repushko/prettyjsonbot v0.0.0-20190302145840-9dd6525fcce8 h1:WpeoeVrRhUW8sVWmS6odQrlwsaDKn5T1DPaiqiuCJ7c=
+github.com/repushko/prettyjsonbot v0.0.0-20190302145840-9dd6525fcce8/go.mod h1:eWdd5qwxWBt5JQJwtqJhYkLsuB6Mzokuwn/uc1YEp4o=
+github.com/tidwall/pretty v1.0.1 h1:WE4RBSZ1x6McVVC8S/Md+Qse8YUv6HRObAx6ke00NY8=
+github.com/tidwall/pretty v1.0.1/go.mod h1:XNkn88O1ChpSDQmQeStsy+sBenx6DDtFZJxhVysOjyk=
+gopkg.in/tucnak/telebot.v2 v2.0.0-20200416071717-f096d2b1adbc h1:z7yuKmmSW1B3t3yMctsHBrQtYAR3bLmZRXrZsqjsD94=
+gopkg.in/tucnak/telebot.v2 v2.0.0-20200416071717-f096d2b1adbc/go.mod h1:+//wyPtHTeW2kfyEBwB05Hqnxev7AGrsLIyylSH++KU=
